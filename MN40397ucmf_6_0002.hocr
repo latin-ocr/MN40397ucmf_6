@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40397ucmf_6_0002.png"; bbox 0 0 2412 3376; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 399 384 1205 580">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 399 384 1205 580">
+     <span class='ocr_line' id='line_1_1' title="bbox 399 384 1205 580; baseline -0.035 -9"><span class='ocrx_word' id='word_1_1' title='bbox 399 384 402 389; x_wconf 28' lang='lat'>⁵</span> <span class='ocrx_word' id='word_1_2' title='bbox 546 576 549 580; x_wconf 63' lang='grc'><em>,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 713 438 1205 555; x_wconf 71' lang='lat' dir='ltr'><strong>MICROFILME</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 409 865 1195 1184">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 409 865 1195 1184">
+     <span class='ocr_line' id='line_1_2' title="bbox 409 865 1129 990; baseline -0.028 1"><span class='ocrx_word' id='word_1_4' title='bbox 409 872 881 990; x_wconf 74' lang='lat' dir='ltr'>UNIVERSITY</span> <span class='ocrx_word' id='word_1_5' title='bbox 903 868 999 978; x_wconf 84' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1024 865 1129 975; x_wconf 84' lang='lat' dir='ltr'><strong>CH</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 729 1051 1195 1184; baseline -0.028 -15"><span class='ocrx_word' id='word_1_7' title='bbox 729 1053 1100 1184; x_wconf 73' lang='lat' dir='ltr'>CHICAGO,</span> <span class='ocrx_word' id='word_1_8' title='bbox 1124 1051 1195 1158; x_wconf 75' lang='lat' dir='ltr'><strong>IL</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 458 1664 1194 1790">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 458 1664 1194 1790">
+     <span class='ocr_line' id='line_1_4' title="bbox 458 1664 1194 1790; baseline -0.03 1"><span class='ocrx_word' id='word_1_9' title='bbox 458 1675 798 1790; x_wconf 83' lang='lat' dir='ltr'>HISTORY</span> <span class='ocrx_word' id='word_1_10' title='bbox 821 1672 916 1781; x_wconf 92' lang='lat' dir='ltr'><strong>OF</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 939 1664 1194 1776; x_wconf 85' lang='lat' dir='ltr'><strong>RELIGI</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 185 2169 1206 2416">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 185 2169 1206 2416">
+     <span class='ocr_line' id='line_1_5' title="bbox 185 2169 1206 2416; baseline -0.036 1"><span class='ocrx_word' id='word_1_12' title='bbox 185 2298 591 2416; x_wconf 69' lang='lat' dir='ltr'>NATloNAL</span> <span class='ocrx_word' id='word_1_13' title='bbox 613 2169 1206 2403; x_wconf 43' lang='grc' dir='ltr'><strong>ΕΝΒΟΨᾹΞἚῊἛΥ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1210 3376">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1210 3376">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1210 3376; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1210 3376; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

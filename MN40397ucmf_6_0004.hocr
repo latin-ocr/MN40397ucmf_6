@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./MN40397ucmf_6_0004.png"; bbox 0 0 2412 3368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 716 208 1206 358">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 716 208 1206 358">
+     <span class='ocr_line' id='line_1_1' title="bbox 716 208 1206 358; baseline -0.014 1"><span class='ocrx_word' id='word_1_1' title='bbox 716 208 1206 358; x_wconf 78' lang='lat' dir='ltr'>Microfilm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 146 476 1191 939">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 146 476 1206 939">
+     <span class='ocr_line' id='line_1_2' title="bbox 407 476 1048 721; baseline -0.014 -44"><span class='ocrx_word' id='word_1_2' title='bbox 407 476 1048 721; x_wconf 82' lang='lat' dir='ltr'>University</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 146 745 1191 939; baseline -0.006 0"><span class='ocrx_word' id='word_1_3' title='bbox 146 813 151 824; x_wconf 47' lang='lat'>²</span> <span class='ocrx_word' id='word_1_4' title='bbox 274 799 276 802; x_wconf 30' lang='lat' dir='ltr'><strong><em>s</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 817 745 1191 939; x_wconf 78' lang='lat' dir='ltr'>Librar</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 756 1107 1182 1288">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 756 1107 1182 1288">
+     <span class='ocr_line' id='line_1_4' title="bbox 756 1107 1182 1288; baseline -0.009 -34"><span class='ocrx_word' id='word_1_6' title='bbox 756 1107 1182 1288; x_wconf 78' lang='lat' dir='ltr'>February</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 522 1408 1206 1989">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 522 1408 1206 1989">
+     <span class='ocr_line' id='line_1_5' title="bbox 738 1408 1206 1559; baseline -0.015 -1"><span class='ocrx_word' id='word_1_7' title='bbox 738 1408 1206 1559; x_wconf 79' lang='lat' dir='ltr'><strong>Microfilm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 522 1614 1206 1765; baseline -0.018 1"><span class='ocrx_word' id='word_1_8' title='bbox 522 1614 1123 1765; x_wconf 76' lang='lat' dir='ltr'>Presewation</span> <span class='ocrx_word' id='word_1_9' title='bbox 1179 1634 1206 1669; x_wconf 93' lang='lat'><em>·</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 577 1818 1191 1989; baseline -0.015 -19"><span class='ocrx_word' id='word_1_10' title='bbox 577 1818 1109 1989; x_wconf 80' lang='lat' dir='ltr'>Bethlehem,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1165 1837 1191 1878; x_wconf 92' lang='lat'>·</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1210 3368">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1210 3368">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 0 1210 3368; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1210 3368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
